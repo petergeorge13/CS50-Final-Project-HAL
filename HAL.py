@@ -167,8 +167,8 @@ if __name__ == '__main__':
             gcal_event['reminders'] = {
                 'useDefault': False,
                 'overrides': [
-                    {'method': 'email', 'minutes': 240},
-                    {'method': 'popup', 'minutes': 240},
+                    {'method': 'email', 'minutes': 120},
+                    {'method': 'popup', 'minutes': 120},
                 ],
             }
 
