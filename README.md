@@ -1,7 +1,7 @@
 # CS50-Final-Project-HAL
 Hello world, this is my CS50 final project. When deciding what to do for my project I knew that I wanted to do something sports related that I would use. I realized that I frequently missed Harvard Athletics events I would have been interested in because I did not know about them/did not have them in my calendar. That inspired me to create this program which automatically adds whatever harvard athletics events you want to your google calendar based on sport. 
 
-This is a command-line program so it is going to require the user (you!) to download Python but never fear I have added step-by step instructions below in order to make the process as painless as possible. 
+This is a command-line program so it is going to require the user (you!) to download Python if you don't already have it on your computer but never fear I have added step-by step instructions below in order to make the process as painless as possible. 
 
 # Instructions
 1. First thing you'll need to do is download Python to your computer if you don't already have it. This is a simple process that is outlined here https://realpython.com/installing-python/ for most all operating systems. The most important parts of the process are making sure that you have Python added to the PATH of your device and making sure you know where Python is located on your computer so that you can identify where your working directory is. 
