@@ -17,5 +17,8 @@ and I tried to adjust it to a different URL or prompt another method of returnin
 what URL to use in order for the authentification to re-direct back to the CS50 IDE so I accepted the reality that I would have to go to a different platform in order to 
 run my code.
 
-From here I tried to use Jupyter Notebook through Anaconda as I had used it to run python in a previous class. Unfortunetaly, I was getting a similar issue from this platform
-so I finally 
+From here I tried to use Jupyter Notebook through Anaconda as I had used it to run python in a previous class. Unfortunetaly, I was getting a similar issue from this platform so I finally decided to move my prgram onto my own computer. I knew this would work as I could run the redirect URL localhost and it would work because I am working within my computer. I did not have pyhton installed on my computer so I had to go through that process and watch several videos on how to properly set it up so python is on the PATH of my computer. Once I took the time to get that up and running I ran my HAL.py file and that authentification worked and I was able to get all of the events from the Harvard Athletics ical into my Google Calendar, success!
+
+I wanted to make it so that the user could specify which sports' events they wanted put into their calendar. I identified the line in my code that controlled what events are put into the Google Calendar and I figured out how to identify the sports based upon key words in their description. Based upon this the user just has to make a small change to HAL.py to specialize the program to their needs.
+
+Finally to make sure that my directions were easy to understand and applicable to all programs I had my girlfriend follow the instructions and impliment the code on her own device, which is a MAC compared to my Windows. She gave me several critiques that made the directions more understandable so that my program can be used by a larger population.
